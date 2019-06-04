@@ -1,0 +1,5 @@
+ch32=(ch4+ch5+ch8+ch9+ch11+ch12+ch15+ch16+ch21+ch22+ch25+ch26+ch27+ch28+ch29+ch30)/17 label posterior                                                    
+ch33=(ch3+ch6+ch7+ch13+ch14+ch17+ch18+ch19+ch20+ch23+ch24)/11 label frontal                                                                              
+ch34=(ch4+ch5+ch8+ch9+ch11+ch12+ch15+ch16+ch21+ch22+ch25+ch26+ch27+ch28+ch29+ch30+ch3+ch6+ch7+ch13+ch14+ch17+ch18+ch19+ch20+ch23+ch24)/28 label grandmean
+ch35=(ch5+ch25+ch26)/3 label avgpost                                                                                                                     
+ch36=(ch4+ch15+ch16)/3 label central                                                                                                                     
